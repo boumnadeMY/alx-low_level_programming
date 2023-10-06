@@ -1,5 +1,3 @@
-3-mul.c
-
 #include <stdio.h>
 #include "main.h"
 
